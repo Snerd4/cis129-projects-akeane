@@ -4,7 +4,7 @@
 #cost of purchased items, with tax.
 
 #User Info
-print("The price of items of the menu is:")
+print("The price of items on the menu is:")
 print("Donut: $6")
 print("Coffee: $5")
 print("Muffin: $4")
